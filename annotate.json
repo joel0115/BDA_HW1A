@@ -1,0 +1,71 @@
+{
+    "video1.mp4": [
+      {
+        "start_frame": "44",
+        "end_frame": "51",
+        "action_type": "click",
+        "down_coordinate": [25, 6],
+        "up_coordinate": [25, 6],
+        "type_word": null
+      },
+      {
+        "start_frame": "56",
+        "end_frame": "130",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "德田館"
+      },
+      {
+        "start_frame": "159",
+        "end_frame": "169",
+        "action_type": "click",
+        "down_coordinate": [22, 11],
+        "up_coordinate": [22, 11],
+        "type_word": null
+      },
+      {
+        "start_frame": "266",
+        "end_frame": "304",
+        "action_type": "swipe",
+        "down_coordinate": [5, 25],
+        "up_coordinate": [5, 31],
+        "type_word": null
+      }
+    ],
+    "video2.mp4": [
+      {
+        "start_frame": "39",
+        "end_frame": "50",
+        "action_type": "click",
+        "down_coordinate": [44, 87],
+        "up_coordinate": [44, 87],
+        "type_word": null
+      },
+      {
+        "start_frame": "74",
+        "end_frame": "106",
+        "action_type": "swipe",
+        "down_coordinate": [14, 33],
+        "up_coordinate": [14, 26],
+        "type_word": null
+      },
+      {
+        "start_frame": "192",
+        "end_frame": "207",
+        "action_type": "click",
+        "down_coordinate": [16, 5],
+        "up_coordinate": [16, 5],
+        "type_word": null
+      },
+      {
+        "start_frame": "249",
+        "end_frame": "285",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "公館"
+      }
+    ]
+  }
+  
